@@ -1,7 +1,10 @@
 # prueba  Creada desde git init
- HOLA MUNDO CREADO MASTER 
+
+	 HOLA MUNDO CREADO MASTER 
  
-	nueva edicion del readme
+	 nueva edicion del readme
 	
-	3ra edicion del README DESDE GITHUB
+	 3ra edicion del README DESDE GITHUB
+
+cambiaois a redimir 
 
